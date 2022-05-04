@@ -181,7 +181,7 @@ export function DisableReservationGroupModal({
 
     return (
         <Modal
-            title="Platz Sperren"
+            title="Tisch Sperren"
             visible={true}
             width={530}
             centered

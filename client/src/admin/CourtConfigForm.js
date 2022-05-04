@@ -49,7 +49,7 @@ export function CourtConfigForm() {
                 <div>
                     <p>Durch das Ändern von Plätzen können bestehende Reservierungen verloren gehen.</p>
                     <p>Alle Reservierungen, die im Zeitraum einer Sperrung liegen, werden automatisch storniert.</p>
-                    <p>Dies gilt auch für das Entfernen eines Platzes.</p>
+                    <p>Dies gilt auch für das Entfernen eines Tisches.</p>
                     <p>Alle Nutzer, die von einer Stornierung betroffen sind, werden per E-Mail informiert.</p>
                 </div>
             ),
@@ -100,7 +100,7 @@ export function CourtConfigForm() {
                                         fieldKey={[field.fieldKey, 'name']}
                                         rules={[{ required: true, message: 'Name erforderlich' }]}
                                     >
-                                        <Input placeholder="z.B.: Platz 1" />
+                                        <Input placeholder="z.B.: Tisch 1" />
                                     </Form.Item>
 
                                     <Form.Item
@@ -133,7 +133,7 @@ export function CourtConfigForm() {
                                 block
                                 icon={<PlusOutlined />}
                             >
-                                Platz anlegen
+                                Tisch anlegen
                             </Button>
                         </Form.Item>
                     </>

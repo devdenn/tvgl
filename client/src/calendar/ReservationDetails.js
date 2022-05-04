@@ -55,7 +55,7 @@ export function ReservationDetails({
             {court &&
                 <div className={styles.item}>
                     <div className={styles.title}>
-                        <EnvironmentOutlined />&nbsp;Platz
+                        <EnvironmentOutlined />&nbsp;Tisch
                     </div>
                     <div className={styles.content}>
                         {court}

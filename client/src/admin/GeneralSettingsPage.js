@@ -16,7 +16,7 @@ export function GeneralSettingsPage() {
 
             <Divider />
 
-            <h1>Platzverwaltung</h1>
+            <h1>Reservierungsverwaltung</h1>
             <Typography.Text>
                 Die Reihenfolge gibt die Darstellung im Reservierungskalender vor.
             </Typography.Text>
