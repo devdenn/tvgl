@@ -1,4 +1,4 @@
-# Tennis Court Reservation System v2
+# Reservierungssystem
 
 **WICHTIG: Dieses Projekt befindet sich noch in der Entwicklung. Bei Interesse bitte per E-Mail an tennis /at/ adroste /dot/ com wenden.**
 
