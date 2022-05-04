@@ -7,7 +7,7 @@ export const db = {
 
     config: {
         announcement: 'Dienstag bestehen keine Reservierungen mehr\n',
-        visibleHours: [8, 22],
+        visibleHours: [17, 24],
         orgName: 'TV Großen-Linden',
         serverMail: 'info@tt-linden.de',
         url: 'https://reservierung.tt-linden.de',
