@@ -13,7 +13,7 @@ import { useApi } from '../useApi';
 import { useTime } from './useTime';
 import { useUpdateEffect } from '../useUpdateEffect';
 
-const VISIBLE_DATES_COUNT = 7; // week
+const VISIBLE_DATES_COUNT = 2; // week
 
 export function ReservationCalendar({
     kiosk = false,
