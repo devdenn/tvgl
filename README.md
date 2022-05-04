@@ -19,7 +19,7 @@
 
 ## Demo
 
-[https://adroste.github.io/tennis-court-reservation-system-v2/client/demo/](https://adroste.github.io/tennis-court-reservation-system-v2/client/demo/)
+[https://devdenn.github.io/tvgl/client/demo/](https://devdenn.github.io/tvgl/client/demo/)
 
 &nbsp;
 
